@@ -50,9 +50,9 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend, an�
 
 ### 📊 Profile stats
 
-[![Oswald Gutiérrez estadisticas de github](https://github-readme-stats.vercel.app/api?username=OswaldGutierrez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
+[![Oswald Gutiérrez estadisticas de github](https://github-readme-stats.vercel.app/api?username=OswaldGutierrez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/OswaldGutierrez/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="OswaldGutierrez " /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OswaldGutierrez&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="OswaldGutierrez " /></p>
 
 ---
 
