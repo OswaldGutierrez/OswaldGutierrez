@@ -2,25 +2,19 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
 
-
-
 Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend, análisis de datos y calidad de software. 
 
 - 🎓 &nbsp; Actualmente curso el último semestre de Ingeniería de Sistemas en la Universidad de Antioquia.
 - 🌱 &nbsp; Estoy aprendiendo y mejorando mis habilidades en la construcción de APIs robustas, transformar datos en decisiones y garantizar la calidad del software.
-  <!-- Connect with me -->
-  <!--h2 without bottom border-->
-  <div id="user-content-toc">
-    <ul align="left">
-      <summary><h2 style="display: inline-block">Contacto🤝</h2></summary>
-    </ul>
-  <!--icons and links-->
-  <p align="left">
-  <p align="left">
-  <a href="https://www.linkedin.com/in/oswald-david-gutierrez-1a452939a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a><a href="mailto:davidgcortina@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
-  </p>
-  </p>
-  </div>
+
+## Contacto 🤝
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/oswald-david-gutierrez-1a452939a" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mailto:davidgcortina@gmail.com" target="blank"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
+</p>
+
+---
 
 ---
 
