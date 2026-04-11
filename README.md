@@ -64,12 +64,9 @@ Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend, an�
 ### 📊 Mis contribuciones
 
 > Visualización 3D
+
 <div align="center">
-
-  <img  src = "https://github.com/OswaldGutierrez/OswaldGutierrez/blob/master/profile-3d-contrib/profile-season-animate.svg"
-
-       alt="3d-contrib" height = 85% width = 70% /></a>
-
+  <img src="https://github.com/OswaldGutierrez/OswaldGutierrez/blob/master/profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height="85%" width="70%" />
 </div>
 
 ---
