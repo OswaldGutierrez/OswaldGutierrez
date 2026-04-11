@@ -63,6 +63,6 @@ Soy estudiante de Ingenier√≠a de Sistemas con enfoque en desarrollo backend, an√
 <div align="center">
   <img src="https://raw.githubusercontent.com/OswaldGutierrez/OswaldGutierrez/master/profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height="85%" width="70%" />
 </div>
----
+
 
 
